@@ -47,4 +47,3 @@ Future Work
    
 8. Model Optimization: Tune hyperparameters to improve the model's accuracy and generalization capabilities.
 
-9. Deployment: Deploy the model as a web application using Flask or Django to make it accessible to users.
